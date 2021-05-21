@@ -1,3 +1,5 @@
+# After the creation of your Vonage's accont change key and secrets value set at "" with your own data
+
 import sqlite3
 import datetime
 import re
