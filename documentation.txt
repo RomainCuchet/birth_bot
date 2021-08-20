@@ -1,0 +1,2 @@
+"pip freeze > requirements.txt"  to create a requirements.txt file (which contain all the required librairies and their version) from the virtual environment
+"pip install -r requirements.txt" to install all the required libraries to a virtual environnment drom a requirements.txt file
